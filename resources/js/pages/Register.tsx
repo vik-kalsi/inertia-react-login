@@ -5,11 +5,11 @@ import Layout from './layout/Layout';;
 export default function Welcome() {
     return (
         <>
-            <Head title="Welcome" />
+            <Head title="Login" />
 
             <Layout>
                 <div className="flex justify-center">
-                    <h1 className='mt-20'>Inertia App for Login</h1>
+                    <h1 className='mt-20'>Register</h1>
                 </div>
             </Layout>
             
